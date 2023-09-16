@@ -1,6 +1,6 @@
 ---
 name: user story
-about: for my project
+about: for my project on agile scrum
 title: ''
 labels: ''
 assignees: ''
